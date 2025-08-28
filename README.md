@@ -25,16 +25,6 @@ A **complete compiler toolchain** with a sleek dark-themed GUI that compiles a c
 
 ---
 
-## 🖼️ Screenshots
-
-![Compiler GUI](https://via.placeholder.com/800x450?text=Dark+Theme+Compiler+GUI+Screenshot)
-*Dark-themed interface with code editor and output panel*
-
-![Compilation Output](https://via.placeholder.com/800x450?text=Compilation+Output+with+Syntax+Highlighting)
-*Color-coded compilation results with error highlighting*
-
----
-
 ## 🛠️ Installation
 
 ### Prerequisites
@@ -116,5 +106,12 @@ RET
 - Syntax errors: Missing semicolons, unbalanced parentheses
 - Semantic errors: Type mismatches, undefined variables
 - All errors are reported with line numbers and descriptive messages
+ ---
+
+## ✅ Conclusion
+
+This project is designed as an educational compiler toolchain,  
+combining modern C++ performance with a clean Java GUI.  
+It can serve as both a learning resource and a foundation for future compiler development. 
 
 ---
