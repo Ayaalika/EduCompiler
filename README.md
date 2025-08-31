@@ -32,7 +32,6 @@ A **complete compiler toolchain** with a sleek dark-themed GUI that compiles a c
 - Java Runtime Environment (JRE) 8+
 - CMake 3.10+ (optional, for build configuration)
 
-د
 ---
 
 ## 🏗️ Project Architecture
